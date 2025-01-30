@@ -1,5 +1,8 @@
 # RSS Nonograms
 
+[task link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/nonograms/README.md)  
+[deploy link](https://grigorev-nonograms.netlify.app/)  
+
 ## Task
 
 You are to implement a classic game — [Nonograms](https://en.wikipedia.org/wiki/Nonogram)  
